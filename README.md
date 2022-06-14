@@ -1,17 +1,18 @@
-  ## Olá, eu sou Ana Beatriz 👋 🇧🇷
+  ## Be Welcome :) 👋 🇧🇷
 
-  - 🌱 No momento trabalho com front-end e design
-  - 📚 Atualmente estou aprendendo PHP, Laravel, and React-Native (para desenvolvimento mobile)
-  - 📫 Como me contatar: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
-  - ✨ Pronomes: ela/dela
+  - 🪶 My name is Ana Beatriz
+  - 🌱 I'm currently working on front-end and design development
+  - 📚 I'm currently learning PHP, Laravel, and React-Native (para desenvolvimento mobile)
+  - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
+  - ✨ Pronouns: ela/dela
 
   ##
+  
+  
 
-  <div>
-    <a href="https://github.com/beatrizAVanderlei">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&langs_count=7&theme=ayu-mirage"/>
-  </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&count_private=true&theme=ayu-mirage&show_icons=true)](https://github.com/beatrizAVanderlei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&count_private=true&theme=ayu-mirage&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <br>
   <div>
     <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
