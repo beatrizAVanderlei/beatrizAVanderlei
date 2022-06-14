@@ -8,7 +8,14 @@
 
   ##
   
+  <div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" alt="Ana Beatriz github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&hide_border=true&theme=ayu-mirage" />
+</div>
 
+<br>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=beatrizAVanderlei&bg_color=1f2430&color=f4cd7c&hide_border=true&line=73d0ff&point=c7c8c2&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <br>
   <div>
