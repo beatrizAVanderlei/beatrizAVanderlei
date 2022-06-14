@@ -4,7 +4,7 @@
   - 🌱 I'm currently working on front-end and design development
   - 📚 I'm currently learning PHP, Laravel, and React-Native (para desenvolvimento mobile)
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
-  - ✨ Pronouns: ela/dela
+  - ✨ Pronouns: she/her
 
   ##
   
