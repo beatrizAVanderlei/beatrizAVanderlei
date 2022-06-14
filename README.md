@@ -9,6 +9,7 @@
   ##
   
   <div>  
+  <a href="https://github.com/beatrizAVanderlei">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" alt="Ana Beatriz github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&hide_border=true&theme=ayu-mirage" />
 </div>
