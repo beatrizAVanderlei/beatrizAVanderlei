@@ -27,3 +27,5 @@
   </div>
 
   ##
+  
+  ![Snake animation](https://github.com/beatrizAVanderlei/beatrizAVanderlei/blob/output/github-contribution-grid-snake.svg)
