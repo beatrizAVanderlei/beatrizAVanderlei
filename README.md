@@ -8,17 +8,13 @@
 
   ##
   
-  <div>  
-  <a href="https://github.com/beatrizAVanderlei">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" alt="Ana Beatriz github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&hide_border=true&theme=ayu-mirage" />
-</div>
-
-<br>
-  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=beatrizAVanderlei&bg_color=1f2430&color=f4cd7c&hide_border=true&line=73d0ff&point=c7c8c2&radius=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <br>
+  
+  ![Snake animation](https://github.com/beatrizAVanderlei/beatrizAVanderlei/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
   <div>
     <img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="XD" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg">
@@ -31,7 +27,3 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
     <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   </div>
-
-  ##
-  
-  ![Snake animation](https://github.com/beatrizAVanderlei/beatrizAVanderlei/blob/output/github-contribution-grid-snake.svg)
