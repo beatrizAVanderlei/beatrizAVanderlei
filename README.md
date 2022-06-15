@@ -9,8 +9,8 @@
 
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&count_private=true&hide_border=true&title_color=f4cd7c&icon_color=73d0ff&text_color=c7c8c2&bg_color=1f2430" alt="Ana Beatriz github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&hide_border=true&title_color=f4cd7c&text_color=c7c8c2&bg_color=1f2430" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&count_private=true&hide_border=true&title_color=f4cd7c&icon_color=73d0ff&text_color=c7c8c2&bg_color=1f2430" alt="Ana Beatriz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&hide_border=true&title_color=f4cd7c&text_color=c7c8c2&bg_color=1f2430" />
 </div>
 
   ![Snake animation](https://github.com/beatrizAVanderlei/beatrizAVanderlei/blob/output/github-contribution-grid-snake.svg)
