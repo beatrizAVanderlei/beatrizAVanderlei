@@ -3,6 +3,7 @@
   - 🪶 My name is Ana Beatriz
   - 🌱 I'm currently working on front-end and design development
   - 📚 I'm currently learning PHP, Laravel, and React-Native (para desenvolvimento mobile)
+  - 📖 Computer science student: 3/9 
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
   - ✨ Pronouns: she/her
 
