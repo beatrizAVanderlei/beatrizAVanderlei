@@ -2,8 +2,8 @@
 
   - 🪶 My name is Ana Beatriz
   - 🌱 I'm currently working on front-end and design development
-  - 📚 I'm currently learning PHP, Laravel, and React-Native (for mobile development)
-  - 📖 Computer science student: 4/9 
+  - 📚 I'm currently learning React-Native (for mobile development), React, Java Script
+  - 📖 Computer science student: 5/9 
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
   - ✨ Pronouns: she/her
 
@@ -25,4 +25,11 @@
   </div>
   
   ##
+  
+  ## My contributions - Design 💫
+  - 🧑‍🎓 Ingressa: http://www.ingressa.ufape.edu.br/
+  - 📌 Solicita: http://www.solicita.ufape.edu.br/
+  - 🐮 MetriCow: PlayStore
+  
+  
 
