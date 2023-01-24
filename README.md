@@ -1,8 +1,8 @@
   ## Be Welcome :) 👋 🇧🇷
 
   - 🪶 My name is Ana Beatriz
-  - 🌱 I'm currently working on front-end and design development
-  - 📚 I'm currently learning React-Native (for mobile development), React, Java Script
+  - 🌱 I'm currently working on front-end and design development 
+  - 📚 I'm currently learning React-Native and Kotlin (for mobile development), React, Java Script, Ruby on Rails
   - 📖 Computer science student: 5/9 
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
   - ✨ Pronouns: she/her
