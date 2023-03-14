@@ -39,6 +39,7 @@
   - 🧑‍🎓 Ingressa: http://www.ingressa.ufape.edu.br/
   - 📌 Solicita: http://www.solicita.ufape.edu.br/
   - 🐮 MetriCow: PlayStore
+  - 📝 Residência em Software: http://www.residenciasoftware.ufape.edu.br/
   
   
 
