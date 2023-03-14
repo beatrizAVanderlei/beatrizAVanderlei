@@ -1,4 +1,12 @@
   ## Be Welcome :) 👋 🇧🇷
+  
+  <br>
+  <div align="center">
+    <a href="https://github.com/beatrizAVanderlei"></a>
+  <img height="180em" alt="Beatriz-Status" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Beatriz-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=gruvbox&langs_count=7&theme=dracula"/>
+  </div>
+  <br>
 
   - 🪶 My name is Ana Beatriz
   - 🌱 I'm currently working on front-end and design development 
