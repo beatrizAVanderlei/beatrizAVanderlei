@@ -3,15 +3,15 @@
   <br>
   <div align="center">
     <a href="https://github.com/beatrizAVanderlei"></a>
-  <img height="180em" alt="Beatriz-Status" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Beatriz-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" alt="Beatriz-Status" src="https://github-readme-stats.vercel.app/api?username=beatrizAVanderlei&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Beatriz-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizAVanderlei&layout=compact&langs_count=7&theme=ayu-mirage"/>
   </div>
   <br>
 
   - 🪶 My name is Ana Beatriz
   - 🌱 I'm currently working on front-end and design development 
-  - 📚 I'm currently learning React-Native and Kotlin (for mobile development), React, Java Script, Ruby on Rails
-  - 📖 Computer science student: 5/9 
+  - 📚 I'm currently learning React, Java Script and Ruby on Rails
+  - 📖 Computer science student: 6/9 
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
   - ✨ Pronouns: she/her
 
@@ -28,9 +28,9 @@
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="RubyonRails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   </div>
   
   ##
