@@ -35,7 +35,7 @@
   
   ##
   
-  ## My contributions - Design 💫
+  ## My contributions 💫
   - 🧑‍🎓 Ingressa: http://www.ingressa.ufape.edu.br/
   - 📌 Solicita: http://www.solicita.ufape.edu.br/
   - 🐮 MetriCow: PlayStore
