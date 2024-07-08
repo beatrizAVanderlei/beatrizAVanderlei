@@ -11,7 +11,7 @@
   - 🪶 My name is Ana Beatriz
   - 🌱 I'm currently working on front-end and design development 
   - 📚 I'm currently learning React, Java Script and Ruby on Rails
-  - 📖 Computer science student: 7/9 
+  - 📖 Computer science student: 8/9 
   - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
   - ✨ Pronouns: she/her
   
@@ -36,6 +36,7 @@
   - 📌 Solicita: http://www.solicita.ufape.edu.br/
   - 🐮 MetriCow: PlayStore
   - 📝 Residência em Software: http://www.residenciasoftware.ufape.edu.br/
+  - 📲 Buzzmonior: https://buzzmonitor.com.br
   
   
 
