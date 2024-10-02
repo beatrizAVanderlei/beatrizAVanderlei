@@ -1,4 +1,4 @@
-  ## Be Welcome :) 👋 🇧🇷
+![image](https://github.com/user-attachments/assets/dfc86d18-a5a9-48c5-94b5-eda271d184c2)  ## Be Welcome :) 👋 🇧🇷
   
   <br>
   <div align="center">
@@ -9,10 +9,10 @@
   <br>
 
   - 🪶 My name is Ana Beatriz
-  - 🌱 I'm currently working on front-end and design development 
-  - 📚 I'm currently learning React, Java Script and Ruby on Rails
-  - 📖 Computer science student: 8/9 
-  - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: Ana Beatriz Almeida
+  - 🌱 I'm currently working on front-end development and ux/ui design 
+  - 📚 I'm currently learning React, Java Script, Python and C++
+  - 📖 Computer science student: 9/9 
+  - 📫 How to contact me: anabiaavanderlei@gmail.com | Linkedin: ./beatrizavanderlei
   - ✨ Pronouns: she/her
   
   <div align="center">
@@ -37,6 +37,7 @@
   - 🐮 MetriCow: PlayStore
   - 📝 Residência em Software: http://www.residenciasoftware.ufape.edu.br/
   - 📲 Buzzmonior: https://buzzmonitor.com.br
+  - 💚 SmartApSUS: https://smartapsus.ufape.edu.br/home.html
   
   
 
