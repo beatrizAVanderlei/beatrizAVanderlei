@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dfc86d18-a5a9-48c5-94b5-eda271d184c2)  ## Be Welcome :) 👋 🇧🇷
+## Be Welcome :) 👋 🇧🇷
   
   <br>
   <div align="center">
